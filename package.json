@@ -1,0 +1,17 @@
+{
+  "name": "diand",
+  "version": "1.0.0",
+  "description": "Pacotes úteis para a simplificação de instruções SQL",
+  "main": "diand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diangien/diand-funcoes.git"
+  },
+  "keywords": ["sql","mysql","ORM"],
+  "author": "Diangienda Nkana",
+  "license": "ISC",
+  "homepage": "https://github.com/Diangien/diand-funcoes#readme"
+}
